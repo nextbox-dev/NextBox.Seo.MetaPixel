@@ -1,0 +1,15 @@
+NextBox:
+  Seo:
+    MetaPixel:
+      metaPixelId: ''
+
+Neos:
+  Neos:
+    fusion:
+      autoInclude:
+        'NextBox.Seo.MetaPixel': true
+    userInterface:
+      translation:
+        autoInclude:
+          'NextBox.Seo.MetaPixel':
+            - 'NodeTypes/*'

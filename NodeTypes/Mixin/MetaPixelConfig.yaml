@@ -1,0 +1,18 @@
+'NextBox.Seo.MetaPixel:Mixin.MetaPixelConfig':
+  abstract: true
+  ui:
+    inspector:
+      groups:
+        seoMetaPixel:
+          label: i18n
+          icon: fab fa-facebook
+          position: 'end'
+  properties:
+    metaPixelId:
+      type: string
+      defaultValue: ''
+      ui:
+        label: i18n
+        inspector:
+          group: seoMetaPixel
+          position: 10

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file original="" product-name="NextBox.Seo.MetaPixel" source-language="en" target-language="de" datatype="plaintext">
+        <body>
+            <trans-unit id="properties.metaPixelId">
+                <source>Tracking-ID</source>
+                <target state="final">Tracking-ID</target>
+            </trans-unit>
+            <trans-unit id="groups.seoMetaPixel">
+                <source>Meta Pixel (SEO)</source>
+                <target state="final">Meta Pixel (SEO)</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
